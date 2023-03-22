@@ -1,0 +1,203 @@
+    1  ls -al
+    2  pwd
+    3  ls mnt
+    4  ls /mnt/
+    5  exit
+    6  sudo apt install git
+    7  git config --global user.name ' EsabellB '
+    8  git config --global user.email esabellab7@gmail.com
+    9  clear
+   10  pwd
+   11  mkdir  zero_day
+   12  cd zero_day
+   13  git init
+   14  git status
+   15  touch README.md
+   16  vi README.md
+   17  git add  .
+   18  git commit -m ' My first commit '
+   19  git push
+   20  git remote add origin https://github.com/EsabellB15/zero_day.git
+   21  git remote -v
+   22  git push
+   23  git push --set-upstream origin master
+   24  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
+   25  git push --set-upstream origin master
+   26  cat README.md
+   27  mkdir 0x00-vagrant
+   28  cd 0x00-vagrant
+   29  touch README.md
+   30  uname
+   31  uname > 0-hello_ubuntu
+   32  cat 0-hello_ubuntu
+   33  git add .
+   34  git commit ' hello ubuntu '
+   35  git commit -m 'hello ubuntu'
+   36  git push
+   37  git add .
+   38  git commit -m 'created 0-hello_ubuntu'
+   39  git push
+   40  hHsa7943iRQJwbfJydAGymjdSpLJa0P2ZrT
+   41  git push
+   42  clear
+   43  ls-al
+   44  ls
+   45  vi README.md
+   46  git add .
+   47  git commit -m 'Created 0-hello_ubuntu '
+   48  git push
+   49  clear
+   50  exit
+   51  touch /home/bellabaloyi/.hushlogin
+   52  ls 0al
+   53  is
+   54  pwd
+   55  is
+   56  LS
+   57  ls
+   58  ls -al
+   59  clear
+   60  exit
+   61  git clone https://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@github.com/EsabellB15/alx-system_engineering-devops.git
+   62  exit
+   63  Mkdir 0x03-shell_variables_expansions
+   64  exit
+   65  pwd
+   66  mkdir 0x0-shell_variables_expansions
+   67  vi 3-paths
+   68  #include <studio.h> 
+   69  int main() {printf("Hello World!"); return 0;}
+   70  exit
+   71  cd /root
+   72  gcc --version
+   73  sudo apt install gcc
+   74  gcc --version
+   75  exit
+   76  gedit
+   77  exit
+   78  gcc-version
+   79  sudo apt install
+   80  sudo apt install gcc
+   81  sudo apt-get update
+   82  gcc --version
+   83  sudo apt install gcc
+   84  gcc --version
+   85  clear
+   86  gedit
+   87  clear
+   88  ls
+   89  pwd
+   90  exit
+   91  root desktop
+   92  cd /Desktop
+   93  mkdir Hello
+   94  cd Hello
+   95  touch hello.c -o test1
+   96  touch hello.c
+   97  vi hello.c
+   98  chmod u+x hello.c
+   99  gcc hello.c
+  100  vi hello.c
+  101  gcc hello.c
+  102  ./hello
+  103  ./hello.c
+  104  vi hello.c
+  105  gcc hello.c
+  106  ./hello.c
+  107  cat hello.c
+  108  gcc hello.c -o test1
+  109  ./test1
+  110  ls -al
+  111  gcc hello.c
+  112  ./a.out
+  113  clear
+  114  ls
+  115  ./a.out
+  116  vi hello.c
+  117  cat hello.c
+  118  exit
+  119  ls
+  120  clear
+  121  cd ..
+  122  ls
+  123  git@github.com:Umuzi-org/EsabellZandile-Baloyi-778-contentitem-.git
+  124  git clone git@github.com:Umuzi-org/EsabellZandile-Baloyi-778-contentitem-.git
+  125  clear
+  126  git --version
+  127  mkdir git-basic-exercises
+  128  cd git-basic-exercises
+  129  ls -a
+  130  git init
+  131  ls -a
+  132  git status
+  133  git log
+  134  touch README.md
+  135  ls -a
+  136  git status
+  137  git log
+  138  clear
+  139  ls -a
+  140  git add .
+  141  git status
+  142  git commit -m 'initial commit'
+  143  git log
+  144  q
+  145  clear
+  146  nano README.md
+  147  cat README.md
+  148  git status
+  149  git add .
+  150  git commit -m 'second commit'
+  151  nano README.md
+  152  git add .
+  153  git commit -m 'third commit'
+  154  git log
+  155  q
+  156  git checkout commit 0fa3121234da1cd5307447f6ef723984edfefb72
+  157  clear
+  158  git log
+  159  q
+  160  sudo apt install python3-q-text-as-data
+  161  clear
+  162  git log
+  163  q
+  164  -q
+  165  q
+  166  exit
+  167  cd git-basic-exercises
+  168  ls -a
+  169  git log
+  170  q
+  171  git checkout commit 0fa3121234da1cd5307447f6ef723984edfefb72
+  172  git checkout 0fa3121234da1cd5307447f6ef723984edfefb72
+  173  cat README.md
+  174  git checkout main
+  175  git checkout master
+  176  cat README.md
+  177  git branch
+  178  git branch milkshake-flavours
+  179  git branch
+  180  git checkout
+  181  git branch
+  182  git branch milkshake-flavours
+  183  git checkout milkshake-flavours
+  184  git branch
+  185  git checkout master
+  186  git branch
+  187  git checkout milkshake-flavours
+  188  git branch
+  189  nano milkshakes.md
+  190  git status
+  191  git add .
+  192  git commit -m 'added initial flavours'
+  193  git log
+  194  clear
+  195  q
+  196  git branch
+  197  git checkout master
+  198  git branch
+  199  git branch history
+  200  git checkout history
+  201  git log
+  202  git branch
+  203  history > history.txt
